@@ -24,6 +24,7 @@ function App() {
           <div> Wind : 4km/h</div>
         </div>
       </div>
+      <div><a href="https://github.com/shaivya05/react-wek4-hw">Github</a></div>
     </div>
   );
 }
