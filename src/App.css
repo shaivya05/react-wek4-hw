@@ -75,3 +75,11 @@
 .city {
   font-size: 28px;
 }
+a{
+  color:#4c4f54;
+  text-decoration: none;
+}
+a:hover{
+  color:black;
+  text-decoration: underline;
+}
